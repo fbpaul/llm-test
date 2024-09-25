@@ -5,8 +5,8 @@ from llm_tools.llm_chat import LLMChat
 
 ## Test LLM
 # llmchat = LLMChat(model="gpt-4o")
-# llmchat = LLMChat(model="Qwen1.5-14B-Chat")
-llmchat = LLMChat(model="Qwen2-7B-Instruct")
+llmchat = LLMChat(model="Qwen1.5-14B-Chat")
+# llmchat = LLMChat(model="Qwen2-7B-Instruct")
 
 params = {
     "temperature": 0.8,
