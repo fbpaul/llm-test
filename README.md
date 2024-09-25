@@ -1,5 +1,4 @@
 # LLM工具說明
-## 目錄
 ## llm_tools模組說明
 ### 參數設定
 - 查看configs/llm.ini
